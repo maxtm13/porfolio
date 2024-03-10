@@ -5,8 +5,9 @@
 ![](https://avatars.githubusercontent.com/u/121362225?v=4)
 
 ### Обучение на Нетологии
-[x] HTML/CSS
-[x] Основы JS
-[x] Git
-[] PHP
-[] 1C-Битрикс
+- [x] **HTML/CSS**
+- [x] **Основы JS**
+- [x] **Git**
+- [ ] _PHP_
+- [ ] _1C-Битрикс+_
+
